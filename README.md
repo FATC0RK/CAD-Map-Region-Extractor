@@ -1,5 +1,4 @@
 # CAD-Map-Region-Extractor
-
 # MAP-EXTRACTOR
 
 MAP-EXTRACTOR traces separate green areas in an image and exports their
@@ -288,7 +287,16 @@ users.
 -   `MAP-EXTRACTOR.py`: application source code.
 -   `README.md`: project documentation.
 
+## Download the Released Windows Build
+
+Open the [latest GitHub release](../../releases/latest) and download `MAP-EXTRACTOR.exe` from the **Assets** section.
+
+Run the downloaded executable on Windows. Python does not need to be installed to use the packaged build.
+
+Check the release notes for any additional files or instructions.
+
 ## License
 
-No license is specified in this repository yet. Add a `LICENSE` file
-before distributing the project under a particular open-source license.
+MAP-EXTRACTOR is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+See the [`LICENSE`](LICENSE) file for the full license terms.

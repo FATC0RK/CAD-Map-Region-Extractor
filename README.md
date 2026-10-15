@@ -9,6 +9,15 @@ areas to extract are marked in green. Straight-edged shapes can be
 adjusted to follow their own detected orientation. Curved outlines can
 keep their contour instead of being forced into right-angle geometry.
 
+## Download the Released Windows Build
+
+Open the [latest GitHub release](../../releases/latest) and download `MAP-EXTRACTOR.exe` from the **Assets** section.
+
+Run the downloaded executable on Windows. Python does not need to be installed to use the packaged build.
+
+Check the release notes for any additional files or instructions.
+
+
 ## Features
 
 -   Detects green regions using HSV colour thresholds.
@@ -287,13 +296,6 @@ users.
 -   `MAP-EXTRACTOR.py`: application source code.
 -   `README.md`: project documentation.
 
-## Download the Released Windows Build
-
-Open the [latest GitHub release](../../releases/latest) and download `MAP-EXTRACTOR.exe` from the **Assets** section.
-
-Run the downloaded executable on Windows. Python does not need to be installed to use the packaged build.
-
-Check the release notes for any additional files or instructions.
 
 ## License
 
